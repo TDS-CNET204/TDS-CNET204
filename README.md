@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi Everyone!
+
+I'm a hardware enthusiast currently enrolled in the Computer Repair and Maintenance program at Centennial College. 🪛🖥️
+
+I'm currently working on launching my own Apache web server (with the help and guidance of my professor) using an Ubuntu instance with Amazon Web Services. 🔧🌐
+
+Hardware is my central focus, but I recognize the importance for a technician to have a diverse set of skills and tools, and to have knowledge of networking and software applications. 🔨🧰
+
+I'm looking forward to learning more from the GitHub community and progressing in my journey! 👨‍💻👨‍🔧
+
 
 <!--
 **TDS-CNET204/TDS-CNET204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
